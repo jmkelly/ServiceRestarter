@@ -1,0 +1,5 @@
+C:\VS_Projects\RestartMappingService\RestartMappingService\bin\Debug\RestartMappingService.dll
+C:\VS_Projects\RestartMappingService\RestartMappingService\bin\Debug\RestartMappingService.pdb
+C:\VS_Projects\RestartMappingService\RestartMappingService\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_Projects\RestartMappingService\RestartMappingService\obj\Debug\RestartMappingService.dll
+C:\VS_Projects\RestartMappingService\RestartMappingService\obj\Debug\RestartMappingService.pdb
