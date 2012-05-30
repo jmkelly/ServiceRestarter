@@ -5,7 +5,7 @@ using System.Text;
 using System.ServiceProcess;
 using System.Security.Principal;
 
-namespace RestartMappingService
+namespace LocationSolve
 {
 
     public interface IService

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestartMappingService", "RestartMappingService\RestartMappingService.csproj", "{774CD173-6A08-46F7-AA49-FA309C021F91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSolve.ServiceRestarter", "RestartMappingService\LocationSolve.ServiceRestarter.csproj", "{774CD173-6A08-46F7-AA49-FA309C021F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestartConsole", "RestartConsole\RestartConsole.csproj", "{DD550DB7-44C3-47C8-9BAD-68ED5A93A51A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSolve.RestartConsole", "RestartConsole\LocationSolve.RestartConsole.csproj", "{DD550DB7-44C3-47C8-9BAD-68ED5A93A51A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E5AD7B3B-8914-4A77-BC10-B20603D45FFB}"
 EndProject

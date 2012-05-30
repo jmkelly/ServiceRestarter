@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.ServiceProcess;
-using RestartMappingService;
+using LocationSolve;
 
 
 namespace RestartConsole

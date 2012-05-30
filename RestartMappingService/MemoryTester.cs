@@ -6,7 +6,7 @@ using System.Timers;
 using System.Diagnostics;
 
 
-namespace RestartMappingService
+namespace LocationSolve
 {
 
     public interface IServiceRestarter

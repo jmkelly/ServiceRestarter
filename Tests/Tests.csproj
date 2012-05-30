@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tests</RootNamespace>
-    <AssemblyName>Tests</AssemblyName>
+    <AssemblyName>LocationSolve.ServiceRestarter.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RestartMappingService\RestartMappingService.csproj">
+    <ProjectReference Include="..\RestartMappingService\LocationSolve.ServiceRestarter.csproj">
       <Project>{774CD173-6A08-46F7-AA49-FA309C021F91}</Project>
-      <Name>RestartMappingService</Name>
+      <Name>LocationSolve.ServiceRestarter</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
